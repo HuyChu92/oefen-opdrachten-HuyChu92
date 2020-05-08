@@ -25,3 +25,4 @@ Let op: bewaar de logfile en voeg deze toe aan je portfolio.
 # log:     het aantal regels in het bestand en
 #          het aantal keer, dat de letter voorkomt
 #-------------------------------------------------------------------------------
+b
